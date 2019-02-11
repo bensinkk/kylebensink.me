@@ -1,0 +1,35 @@
+
+p{
+  font-style: italic;
+  color: darkblue;
+  width: 55%
+}
+.pic_of_me{
+  width: 40%;
+  /*max-height: 40%;*/
+  float: right;
+  display: inline-block;
+}
+#Name{
+  font-family: sans-serif;
+  color: darkblue;
+  width: 30%;
+  display: inline-block;
+  margin-top: 15px;
+
+}
+#Place{
+  font-family: sans-serif;
+  color: darkblue;
+  width: 30%
+  display: inline-block;
+  float: right;
+  margin-right: 20px;
+}
+.column{
+}
+.row{
+}
+.grid_pic{
+  width: 25%;
+}
